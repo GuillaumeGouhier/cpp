@@ -10,4 +10,3 @@ int main(){
 	calcul1->division(a,b);
 	return 0;
 }
-
