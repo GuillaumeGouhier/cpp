@@ -3,11 +3,11 @@
 #include "lib.h"
 
 int main(){
-	int a = 1;
-	int b = 2;
+	int a = 6;
+	int b = 3;
 	std::cout<<"Hello"<<std::endl;
 	calcul*calcul1= new calcul();
-	calcul1->somme(a,b);
+	calcul1->division(a,b);
 	return 0;
 }
 
